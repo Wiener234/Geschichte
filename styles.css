@@ -1,0 +1,48 @@
+body {
+    background-color: #474e5d;
+    font-family: Helvetica, sans-serif;
+    color: white;
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+  }
+
+ 
+  .back{
+    float: right;
+    color: aqua;
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    color: black;
+  }
+
+  .center{
+    width: 100%;
+    margin-top:10px;
+    margin-right: auto;
+  }
+
+  img{
+    height: 500px;
+    vertical-align: middle;
+  }
+
+  footer{
+    margin-top: 10%;
+  }
+  .Quellen{
+    text-decoration: underline;
+    color: #6895f0;
+  }
