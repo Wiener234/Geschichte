@@ -11,7 +11,11 @@
       text-decoration: none;
       color: black;
   }
-  
+
+  .white{
+    color: white;
+  }
+
   /* The actual timeline (the vertical ruler) */
   .timeline {
     position: relative;
