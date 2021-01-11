@@ -12,6 +12,11 @@
       color: black;
   }
 
+  .incontainer{
+    height: 100px;
+    box-shadow: 4px 4px rgb(226, 226, 226);
+  }
+
   .white{
     color: white;
   }
@@ -41,6 +46,7 @@
     position: relative;
     background-color: inherit;
     width: 50%;
+    color: #000000;
   }
   
   /* The circles on the timeline */
